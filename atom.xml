@@ -6,7 +6,7 @@
   <link href="https://sandradulu.github.io/atom.xml" rel="self"/>
   
   <link href="https://sandradulu.github.io/"/>
-  <updated>2025-04-25T01:26:08.693Z</updated>
+  <updated>2025-04-25T02:03:28.202Z</updated>
   <id>https://sandradulu.github.io/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>picTest</title>
+    <link href="https://sandradulu.github.io/2025/04/25/picTest/"/>
+    <id>https://sandradulu.github.io/2025/04/25/picTest/</id>
+    <published>2025-04-25T01:59:16.000Z</published>
+    <updated>2025-04-25T02:03:28.202Z</updated>
+    
+    <content type="html"><![CDATA[<p>图片测试啦</p><p>这是图片测试</p><p><img src="/5.jpg" alt="5"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;图片测试啦&lt;/p&gt;
+&lt;p&gt;这是图片测试&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/5.jpg&quot; alt=&quot;5&quot;&gt;&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>first-blob</title>
